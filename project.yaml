@@ -1,8 +1,9 @@
 specVersion: 0.2.0
+
 name: hello-world
 version: 0.0.4
 description: This project can be use as a starting po...
-repository: https://github.com/subquery/subql-starter
+repository: https://github.com/boykas/subquery-hello-world
 schema:
   file: ./schema.graphql
 network:
